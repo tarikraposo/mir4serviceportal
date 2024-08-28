@@ -6,12 +6,9 @@ const Home = () => {
       <div className="">
         <div className="max-w-[500px]">
         <p className="text-cyan-500">Welcome to Mir4 Service Portal</p>
-        <p className="text-3xl text-white">lorem ipsam dolor sit amet consectetur</p>
+        <p className="text-3xl text-white">Do you want to hire our services?</p>
         <p className="text-white">
-          Lorem ipsum dolor sit, amet consectetur adipisicing elit. Laudantium
-          officia pariatur excepturi et illum sint quaerat ipsam quo nesciunt
-          maiores expedita quasi consectetur saepe, quia, nostrum omnis
-          accusantium tempore id.
+        We offer several types of services, contact one of our members and come and find out!
         </p>
         </div>
         
